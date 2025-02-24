@@ -16,7 +16,7 @@ Arduino IDE -> 스케치(Sketch) -> 라이브러리 포함하기(Include Library
 
 Arduino IDE에서 스케치(Sketch) → 라이브러리 포함하기(Include Library) → .ZIP 라이브러리 추가(Add .ZIP Library) 메뉴를 통해 라이브러리를 추가하세요.
 
-# API 명세 (Documentation)
+# API Documentation
 
 ## 표준 API
 
@@ -45,7 +45,7 @@ Arduino IDE에서 스케치(Sketch) → 라이브러리 포함하기(Include Lib
 - 글자가 출력되는 속도를 설정할 수 있습니다. (기본값: 1000ms)
 
 
-# 기여자 (Contributors)
+# Contributors
 
 Junwha Hong @junwha
 
